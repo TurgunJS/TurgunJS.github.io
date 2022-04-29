@@ -1,0 +1,24 @@
+#experience{
+    display: flex;
+    flex-direction: column;
+}
+
+#education{
+    display: flex;
+    flex-direction: column;   
+}
+
+#skills{
+    display: flex;
+    flex-direction: column;   
+}
+
+#interests{
+    display: flex;
+    flex-direction: column;
+}
+
+#awards{
+    display: flex;
+    flex-direction: column; 
+}
