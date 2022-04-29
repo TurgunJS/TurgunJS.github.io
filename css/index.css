@@ -22,3 +22,11 @@
     display: flex;
     flex-direction: column; 
 }
+
+#aColor{
+    color: rgb(80, 81, 81);
+}
+
+#familia{
+    font-size: 50px;
+}
